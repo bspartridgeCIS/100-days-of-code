@@ -15,3 +15,12 @@ Day 2: January 4, 2017
 
 
 **Link to work:**  http://codepen.io/bspartridgecis/pen/ggOzPE?editors=1100#0
+
+Day 2: January 5, 2017
+
+**Today's Progress**: Started over on my personal portfolio. Learning how to do it correctly from the beginning. Found some really good youtube videos that are helping. https://www.youtube.com/watch?v=2klCZXwfvLs&t=62s Thank Goodness. I think I finally understand fonts!
+
+**Thoughts:** I showed up today. I really was frustrated yesterday but I showed up today. I will get there through youtube and books.
+
+**Link to work:**  http://codepen.io/bspartridgecis/pen/ggOzPE?editors=1100#0
+
