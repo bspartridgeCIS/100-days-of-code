@@ -1,11 +1,17 @@
 # 100 Days Of Code - Log
+Day 2: July 29, 2017
 
+**Today's Progress**: Countinued Javascript in Free Code Camp   
+
+**Thoughts:** This still seems so hypothetical. I am hoping that it gets better!
+
+**Link to Work**
 
 Day 1: July 26, 2017
 
 **Today's Progress**: I did an hours worth of JavaScript in Free Code Camp. I was almost all about strings. 
 
-**Thoughts:** I am really hoping that once we put this into practice it will make sense. As of right now I don't understand what we would ever use strings for in a functional world. I really want to be good at programming, but I am having difficulty seeing the light.
+**Thoughts:** I am really hoping that once we put this into practice it will make sense. As of right now I don't understand what we would ever use strings for in a functional world. I really want to be good at programming, buwe4k,
 
 
 **Link to work:**  
